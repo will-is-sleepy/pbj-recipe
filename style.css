@@ -1,0 +1,31 @@
+html {
+  background-color: rgb(129, 26, 224);
+}
+
+body {
+  background-color: aliceblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border-radius: 10px;
+}
+h1 {
+  color: rgb(104, 21, 182);
+}
+h2 {
+  color: rgb(169, 111, 235);
+  text-decoration: underline;
+}
+h1,
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a {
+  color: rgb(82, 73, 209);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
